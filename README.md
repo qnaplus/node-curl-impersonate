@@ -1,4 +1,4 @@
-# ts-curl-impersonate
+# node-curl-impersonate
 
 Fork of [curl-impersonate-node](https://github.com/wearrrrr/curl-impersonate-node) that adds windows support along with some other features.
 
@@ -6,10 +6,10 @@ Fork of [curl-impersonate-node](https://github.com/wearrrrr/curl-impersonate-nod
 
 ```sh
 # yarn
-yarn add ts-curl-impersonate
+yarn add @qnaplus/node-curl-impersonate
 
 # npm
-npm i ts-curl-impersonate
+npm i @qnaplus/node-curl-impersonate
 ```
 
 ## Usage

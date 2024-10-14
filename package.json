@@ -1,5 +1,5 @@
 {
-    "name": "ts-curl-impersonate",
+    "name": "@qnaplus/node-curl-impersonate",
     "version": "1.0.1",
     "description": "A typescript wrapper around cURL-impersonate.",
     "main": "dist/index.js",
