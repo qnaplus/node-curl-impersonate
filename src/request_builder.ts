@@ -435,6 +435,7 @@ export class RequestBuilder {
             exec(command, { cwd: BINARY_PATH }, (err, stdout, stderr) => {
                 if (err) {
                     reject(err);
+                    return;
                 }
 
                 if (stderr.trim().length > 0) {
